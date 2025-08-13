@@ -1,4 +1,4 @@
-package com.github.cidarosa.eureka_server;
+package com.github.marcosh.eureka_server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
